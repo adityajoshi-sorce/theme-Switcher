@@ -10,3 +10,22 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+React Theme Toggle App 🌗
+
+This is a simple React application that demonstrates how to implement a light/dark theme toggle using React Context and Tailwind CSS.
+
+✨ Features
+
+- Light and Dark Mode toggle
+- Built using React + Vite
+- Tailwind CSS for styling
+- Context API for theme state management
+- Responsive Card UI component
+
+
+🛠️ Tech Stack
+
+- React (via Vite)
+- Tailwind CSS (with `darkMode: "class"`)
+- React Context API
